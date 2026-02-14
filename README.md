@@ -55,6 +55,22 @@ The system generates a risk classification:
 - Custom Trust Score Engine
 
 ---
+---
+
+## 📂 Project Structure
+((( examshield-ai/
+│
+├── public/ # Static assets
+│
+├── src/
+│ ├── app/ # Next.js App Router pages
+│ ├── components/ # UI components
+│ ├── lib/ # Logic & utilities
+│
+├── package.json # Dependencies
+├── next.config.ts # Next.js configuration
+├── tsconfig.json # TypeScript configuration
+└── README.md )))
 
  👨‍💻 Author
 
@@ -64,6 +80,7 @@ BTech CSE | Cybersecurity & AI Developer
 🔗 GitHub: https://github.com/angshubiswas3  
 📧 Email: biswashelp2@gmail.com  
 🌍 Location: India  
+
 
 ---
 
