@@ -18,6 +18,8 @@ AI-powered forensic intelligence platform that detects deepfakes, analyzes websi
 - ⚡ Real-time Scan Interface
 
 ---
+## 🌍 Live Demo
+https://authentix-ai.vercel.app/
 
 ## 🖥 Demo Preview
 
