@@ -59,3 +59,17 @@ cd Authentix-AI/examshield-ai
 npm install
 npm run dev
 
+---
+
+## 👨‍💻 Author
+
+**Angshu Biswas**  
+BTech CSE | Cybersecurity & AI Developer  
+
+🔗 GitHub: https://github.com/angshubiswas3  
+📧 Email: biswasangshu3@gmail.com  
+🌍 Location: India  
+
+---
+
+> Built for hackathon innovation and digital misinformation defense.
