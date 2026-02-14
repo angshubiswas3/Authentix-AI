@@ -1,3 +1,8 @@
+![Next.js](https://img.shields.io/badge/Next.js-16-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Enabled-blue)
+![Hackathon](https://img.shields.io/badge/Hackathon-Project-purple)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 # 🔍 Authentix AI
 
 AI-powered forensic intelligence platform that detects deepfakes, analyzes website credibility, and uncovers AI-generated manipulation using pixel-level and NLP analysis.
