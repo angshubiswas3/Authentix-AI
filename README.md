@@ -85,6 +85,8 @@ BTech CSE | Cybersecurity & AI Developer
 
 
 ---
+<img width="1209" height="863" alt="Screenshot 2026-02-15 030838" src="https://github.com/user-attachments/assets/f01cb70a-c90e-4161-8314-8877abde9ed0" />
+
 
 > Built for hackathon innovation and digital misinformation defense.
 
